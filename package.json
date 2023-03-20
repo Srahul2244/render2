@@ -11,5 +11,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Srahul2244/render2/issues"
+  },
+  "dependencies": {
+    "json-server": "^0.17.2"
   }
 }
